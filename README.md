@@ -9,9 +9,6 @@ Este projeto consiste em um dashboard interativo desenvolvido no Microsoft Excel
 ## ⚙️ Funcionalidades e Análises
 O painel oferece uma visão gerencial com os seguintes indicadores:
 - **Faturamento Temporal:** Acompanhamento mensal das receitas.
-- **Análise Geográfica:** Distribuição do volume de vendas por região do país.
-- **Mix de Produtos:** Proporção de vendas entre diferentes modelos (Titular, Reserva, Treino) e tamanhos.
-- **Filtros Interativos:** Segmentação de dados que permite ao usuário cruzar informações dinamicamente (ex: visualizar apenas as vendas de camisas "G" no "Nordeste").
 
 ## 📂 Base de Dados Utilizada
 Os dados utilizados para esta demonstração são fictícios e foram estruturados para simular um ambiente real de e-commerce. As variáveis analisadas incluem:
