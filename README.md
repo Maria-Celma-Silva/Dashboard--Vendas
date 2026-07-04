@@ -25,4 +25,4 @@ Os dados utilizados para esta demonstração são fictícios e foram estruturado
 ## 🚀 Como Reproduzir e Utilizar
 1. Faça o clone deste repositório:
    ```bash
-   git clone [https://github.com/SeuUsuario/nome-do-repositorio.git](https://github.com/SeuUsuario/nome-do-repositorio.git)
+   git clone [https:/https://github.com/Maria-Celma-Silva/Dashboard--Vendas/edit/main/README.md
