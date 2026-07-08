@@ -8,7 +8,7 @@ Este projeto consiste em um dashboard interativo desenvolvido no Microsoft Excel
 
 ## ⚙️ Funcionalidades e Análises
 O painel oferece uma visão gerencial com os seguintes indicadores:
-- **Faturamento Temporal:** Acompanhamento mensal das receitas.
+- **Faturamento Temporal:** Acompanhamento mensal.
 
 ## 📂 Base de Dados Utilizada
 Os dados utilizados para esta demonstração são fictícios e foram estruturados para simular um ambiente real de e-commerce. As variáveis analisadas incluem:
