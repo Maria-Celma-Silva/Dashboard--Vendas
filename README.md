@@ -1,8 +1,6 @@
 # 📊 Dashboard de Vendas - Camisas do Brasil
 <img width="1577" height="642" alt="Captura de tela 2026-07-07 212947" src="https://github.com/user-attachments/assets/1c1c1eac-d0bb-4378-904e-66b3c0eb0a0d" />
 
-![Visualização do Dashboard](`Dashboard_Vendas_Camisas.jpg`) 
-
 [Dashboard_Vendas_Camisas.xlsx](https://github.com/user-attachments/files/29777695/Dashboard_Vendas_Camisas.xlsx)
 
 ## 🎯 Objetivo
