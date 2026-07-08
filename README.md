@@ -3,6 +3,7 @@
 
 📥[Dashboard_Vendas_Camisas.xlsx.xlsx](https://github.com/user-attachments/files/29778122/Dashboard_Vendas_Camisas.xlsx.xlsx)
 
+
 ## 🎯 Objetivo
 Um dashboard interativo em Excel desenvolvido para analisar o desempenho comercial de camisas da seleção brasileira. O projeto foca em transformar dados brutos em inteligência de negócios, permitindo decisões rápidas baseadas em dados reais.
 
