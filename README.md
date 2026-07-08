@@ -1,23 +1,26 @@
-
 # 📊 Dashboard de Vendas - Camisas do Brasil
 
-## 📝 Sobre o Projeto
-Este projeto consiste em um dashboard interativo desenvolvido no Microsoft Excel para analisar o desempenho de vendas de camisas da seleção brasileira. O objetivo é transformar dados brutos de transações comerciais em insights visuais claros, facilitando a tomada de decisão estratégica e o acompanhamento de métricas de negócios.
+![Visualização do Dashboard](dashboard-visual.png) 
+*(Lembre-se de subir a imagem do seu dashboard e colocar o nome correto aqui)*
 
-**Análise de Público:** Comparativo direto de volume de vendas e faturamento entre as linhas Feminina e Masculina, permitindo identificar oportunidades de marketing e gestão de estoque para cada segmento.
+## 🎯 Objetivo
+Um dashboard interativo em Excel desenvolvido para analisar o desempenho comercial de camisas da seleção brasileira. O projeto foca em transformar dados brutos em inteligência de negócios, permitindo decisões rápidas baseadas em dados reais.
 
-## ⚙️ Funcionalidades e Análises
-O painel oferece uma visão gerencial com os seguintes indicadores:
-- **Faturamento Temporal:** Acompanhamento mensal.
+## ⚙️ Principais Análises
+- **Comparativo de Público:** Volume de vendas e faturamento detalhado entre as categorias **Feminina** e **Masculina**.
+- **Métricas Chave:** Faturamento total, sazonalidade mensal e distribuição geográfica (Regiões).
+- **Interatividade:** Filtros dinâmicos (Segmentação de Dados) para cruzamento rápido de informações.
 
-## 📂 Base de Dados Utilizada
-Os dados utilizados para esta demonstração são fictícios e foram estruturados para simular um ambiente real de e-commerce. As variáveis analisadas incluem:
-- `Data da Venda`
-- `Modelo da Camisa`
-- `Tamanho`
-- `Região`
-- `Quantidade`
-- `Preço Unitário e Faturamento Total`
+## 🚀 Como Visualizar
+1. Faça o download do arquivo `Dashboard_Vendas_Camisas.xlsx` disponível neste repositório.
+2. Abra o arquivo no Microsoft Excel.
+3. Navegue pela aba "Dashboard" e clique nos botões de filtro para interagir com os gráficos.
+
+## 🛠️ Ferramentas Utilizadas
+- **Microsoft Excel:** Limpeza de dados, Tabelas Dinâmicas e Gráficos Dinâmicos.
+
+---
+*Este projeto faz parte do meu portfólio prático de análise de dados.*`
 
 ## 🚀 Como Reproduzir e Utilizar
 1. Faça o clone deste repositório:
