@@ -1,5 +1,4 @@
 # 📊 Dashboard de Vendas - Camisas do Brasil
-
 <img width="1223" height="647" alt="Captura de tela 2026-07-07 210954" src="https://github.com/user-attachments/assets/19ca1920-da2a-45e7-8ed8-8c3347935562" />
 
 ![Visualização do Dashboard](dashboard-visual.png) 
