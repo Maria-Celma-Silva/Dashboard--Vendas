@@ -23,7 +23,3 @@ Um dashboard interativo em Excel desenvolvido para analisar o desempenho comerci
 ---
 *Este projeto faz parte do meu portfólio prático de análise de dados.*`
 
-## 🚀 Como Reproduzir e Utilizar
-1. Faça o clone deste repositório:
-   ```bash
-   git clone [https:/https://github.com/Maria-Celma-Silva/Dashboard--Vendas/edit/main/README.md
