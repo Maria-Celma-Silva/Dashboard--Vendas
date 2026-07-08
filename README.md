@@ -21,5 +21,5 @@ Um dashboard interativo em Excel desenvolvido para analisar o desempenho comerci
 - **Microsoft Excel:** Limpeza de dados, Tabelas Dinâmicas e Gráficos Dinâmicos.
 
 ---
-*Este projeto faz parte do meu portfólio prático de análise de dados.*`
+*Este projeto faz parte do meu portfólio prático de análise de dados.*
 
