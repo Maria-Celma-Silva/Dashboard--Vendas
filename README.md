@@ -1,8 +1,7 @@
 # 📊 Dashboard de Vendas - Camisas do Brasil
-<img width="1223" height="647" alt="Captura de tela 2026-07-07 210954" src="https://github.com/user-attachments/assets/19ca1920-da2a-45e7-8ed8-8c3347935562" />
+<img width="1572" height="645" alt="Captura de tela 2026-07-07 212641" src="https://github.com/user-attachments/assets/32523da6-ce91-48e6-a159-77185188a6c7" />
 
-![Visualização do Dashboard](dashboard-visual.png) 
-*(Lembre-se de subir a imagem do seu dashboard e colocar o nome correto aqui)*
+![Visualização do Dashboard](Dashboard_Vendas_Camisas.jpg) 
 
 ## 🎯 Objetivo
 Um dashboard interativo em Excel desenvolvido para analisar o desempenho comercial de camisas da seleção brasileira. O projeto foca em transformar dados brutos em inteligência de negócios, permitindo decisões rápidas baseadas em dados reais.
